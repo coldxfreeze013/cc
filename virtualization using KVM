@@ -20,3 +20,7 @@ Step 13 :- Provide all the user informations and click on continue.
 Step 14 :- Background Installation windows. 
 Step 15 :- Click on Restart now. 
 Step  16 :- Enter your password and use virtual machine.
+Step 17 :-To create a Network Bridge, open the network settings and configure a bridge interface so that the virtual 
+machine can connect directly to the physical network.
+Step 13 :-After configuring the bridge network, start the virtual machine again. The virtual machine will now receive an 
+IP address from the local network, just like a real computer.
